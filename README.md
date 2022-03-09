@@ -1,1 +1,1 @@
-# bl-zko.
+# blizko.
